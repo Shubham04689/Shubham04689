@@ -40,14 +40,15 @@ Each project showcases a unique approach to a machine learning problem. More com
 ---
 
 ### 📜 **Certifications & Learning**  
-- 📖 **Machine Learning** by Coursera (Stanford University)  
-- 💡 **Natural Language Processing** by Udemy  
+- 📖   **Machine Learning** by Coursera (Stanford University)  
+- 💡   **Natural Language Processing** by Udemy
+- ♕    **Artificial Intelligence & Machine Learning** from IIIT Hyderabad
 *...and more to come!*  
 
 ---
 
 ### 🌟 **Let's Connect**  
-📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email**: [shubham04689@gmail.com](mailto:your-email@example.com)  
 💼 **LinkedIn**: [Shubham04689](https://www.linkedin.com/in/shubham04689/)  
 🔗 **GitHub**: [Shubham04689](https://github.com/Shubham04689)  
 
