@@ -28,11 +28,11 @@ Each project showcases a unique approach to a machine learning problem. More com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📉 _Linear regression implementation with decaying learning rates._  
 **3.** [**Hierarchical Clustering**](https://github.com/Shubham04689/colab_notebooks/blob/main/Hierarchical_Clustering.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 _Uncover hidden patterns in data using hierarchical clustering._  
-**4.** [**NLP Text Processing**]([NLP.ipynb](https://github.com/Shubham04689/colab_notebooks/blob/main/NLP.ipynb))  
+**4.** [**NLP Text Processing**](https://github.com/Shubham04689/colab_notebooks/blob/main/NLP.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬 _From text preprocessing to sentiment analysis._  
-**5.** [**KMeans Clustering**]([Kmeans_Clustering.ipynb](https://github.com/Shubham04689/colab_notebooks/blob/main/Kmeans_Clustering.ipynb))  
+**5.** [**KMeans Clustering**](https://github.com/Shubham04689/colab_notebooks/blob/main/Kmeans_Clustering.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 _Cluster real-world datasets using KMeans._  
-**6.** [**SVM for Breast Cancer Classification**]([SVM_Linear_Classifer_Breast_Cancer.ipynb](https://github.com/Shubham04689/colab_notebooks/blob/main/SVM_Linear_Classifer_Breast_Cancer.ipynb))  
+**6.** [**SVM for Breast Cancer Classification**](https://github.com/Shubham04689/colab_notebooks/blob/main/SVM_Linear_Classifer_Breast_Cancer.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🩺 _Leverage linear SVM for a life-saving application._  
 
 🔗 **[Explore All Projects Here](https://github.com/Shubham04689?tab=repositories)**  
