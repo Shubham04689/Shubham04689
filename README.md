@@ -1,7 +1,7 @@
 
 ---
 
-# 🌟 **Shubham's Machine Learning & NLP Journey**  
+# 🌟 *Shubham's Portfolio*  
 [![GitHub followers](https://img.shields.io/github/followers/Shubham04689?label=Follow&style=social)](https://github.com/Shubham04689)  
 [![LinkedIn](https://img.shields.io/badge/-Shubham04689-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham04689/)](https://www.linkedin.com/in/shubham04689/)
 
